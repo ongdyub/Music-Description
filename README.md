@@ -8,7 +8,7 @@
 
 <img src="./img/loss_graph.png"/>
 
-## Examples
+## Example Outputs
 
 #### Ex 1
 
